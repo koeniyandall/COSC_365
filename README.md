@@ -1,1 +1,1 @@
-# test
+# Notes for COSC365
